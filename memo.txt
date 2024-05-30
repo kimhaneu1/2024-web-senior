@@ -17,3 +17,7 @@ git config user.name
 hash 암호화
 - 복호화 불가능, 무결성
 인증 (로그인, 회원가입, 비밀번호)
+
+기말고사
+node_modules 제거
+경로 주의!
