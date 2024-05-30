@@ -18,6 +18,10 @@ hash 암호화
 - 복호화 불가능, 무결성
 인증 (로그인, 회원가입, 비밀번호)
 
+웹 디자인 / 웹 에이전시: awwwards.com
+웹 템플릿 활용(유료): ThemeForest
+무료: Bootstrap, SemanticUI, FluentUI, MaterialUI
+
 기말고사
 node_modules 제거
 경로 주의!
