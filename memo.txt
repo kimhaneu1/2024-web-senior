@@ -12,3 +12,7 @@ git config --global user.name "kimhaneu1"
 
 ** 계정 설정 확인
 git config user.name
+
+hash 암호화
+- 복호화 불가능, 무결성
+인증 (로그인, 회원가입, 비밀번호)
